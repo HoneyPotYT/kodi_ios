@@ -1,6 +1,8 @@
 # kodi_ios
 Install kodi on ios
 
+Installiere zuvor iCloud und Itunes (Link dazu unter iCloud und Itunes)
+
 1. Installiere AltStore: https://youtu.be/TC9OajiYKjM
 2. Downloade die Kodi.ipa Datei auf deinem IOS Gerät (https://bit.ly/kodi1920)
 3.Öffne die Datei mit AltStore auf deinem IOS Gerät
